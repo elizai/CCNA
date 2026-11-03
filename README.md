@@ -1,1 +1,2 @@
 # CCNA
+Labs and exercises
